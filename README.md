@@ -11,3 +11,16 @@ Avec "007", chaque partie est rapide, intense et pleine de rebondissements.
 Préparez-vous, visez juste et devenez le maître incontesté de "007" !
 
 Rejoignez-nous maintenant et entrez dans la légende !
+------------------------------------------------------------------------------------------------------
+
+Les dossiers "node_modules" et ".next" ne sont pas compris dans le repo.
+Ceci est une première version, qui comprend encore des bugs notamment liés au multijoueur.
+
+Voici à quoi ressemble le jeu :
+
+![image](https://github.com/nathk68/007_theGame/assets/94963622/b89d360a-3b95-46ff-83bd-daa1a908a0aa)
+
+![image](https://github.com/nathk68/007_theGame/assets/94963622/7a51ff25-c76d-41f8-9c62-f3aa65ca2a83)
+
+![image](https://github.com/nathk68/007_theGame/assets/94963622/debc43ff-0644-4dc4-8876-973953354eb4)
+
